@@ -1,0 +1,1 @@
+🍏️💾️⌚️🧮️📖️ The official documentation source repository for the Calculator application included with the whyWatchOS subsystem of WacOS, an open-source alternative to the watchOS Calculator application. Part of the WacOS operating system project
